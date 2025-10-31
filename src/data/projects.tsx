@@ -533,7 +533,6 @@ const projects: Project[] = [
           </p>
           <SlideShow
             images={[
-              `${BASE_PATH}/portfolio/landing.png`,
               `${BASE_PATH}/portfolio/skills.png`,
             ]}
           />
